@@ -1,0 +1,146 @@
+{
+  "Header": {
+    "title": "We Understand the Agency Industry.",
+    "paragraph": "DWS Collaborates with You on Systems and Services to Ensure Your Clients Achieve Results."
+  },
+  "About": {
+    "paragraph": "DWS exists to partner agencies and accelerate their growth. We bring together all that you need it and combine it with a unique integrated approach to help agencies deliver measurable ROI to their clients.",
+    "Why": [
+      "58 Agency partners and counting",
+      "$108 Million+ Collective Revenue",
+      "5 Global Offices",
+      "11 agencies in UK and Australia"
+    ],
+    "Why2": [
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Digital Marketing",
+      "text": "Our growth story has been 15 years in the making. DWS is a digital marketing agency that has seen the internet grow and along with it helped numerous businesses find their footing. Increasing revenue, getting more leads or creating a brand aura, we do it all."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "SEO",
+      "text" : "Achieving over 250,000 keywords ranked on Google's first page, we have seen a 59% year-over-year increase in SEO traffic. Our partners benefit from an impressive $190 million+ in annual revenue generated through our efforts. Additionally, we have successfully written and published more than 100,000 guest posts. Each client is assigned a dedicated account manager to ensure personalized support, and we offer a 15-day money-back guarantee for your peace of mind."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "Blogger Outreach",
+      "text": "Premier Blogger Outreach & Guest Post Services and 2700+ Targeted Links Generated Monthly With Unparalleled Precision"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "https://www.digitalwebsolutions.com/wp-content/uploads/2019/05/Gareth.jpg",
+      "text": "\"I really have no problem recommending working with Digital Web Solutions, you won’t be disappointed.\"",
+      "name": "Charles"
+    },
+    {
+      "img": "https://www.digitalwebsolutions.com/wp-content/uploads/2019/04/Dino-Reise.jpg",
+      "text": "\"We are super happy with the backlinks and the writing quality DWS is serving for my clients. Consider us onboard for life!!!\"",
+      "name": "Dino"
+    },
+    {
+      "img": "https://www.digitalwebsolutions.com/wp-content/uploads/2019/04/john.png",
+      "text": "\"Vaibhav also has an uncanny knowledge of the latest above board SEO tips and tricks that will guarantee you the results you are looking for.\"",
+      "name": "Gorizen"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "2035 Sunset Lake Road, Suite B-2, Newark, Delaware, 19702",
+    "phone": "+1 302-208-6746",
+    "email": "hello@digitalwebsolutions.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-money",
+      "title": "PPC",
+      "text": "Google Adwords, Facebook Ads, LinkedIN Ads"
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "title": "Landing Page Design",
+"text":"A/B testing, Conversion Funnel, Brand Design Consistency"    },
+    {
+      "icon": "fa fa-group",
+      "title": "Blog Management",
+      "text":"Approved Writers, UK & US English, Article Cover Image"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Infographics",
+      "text":"premium Design, AI Source File, Stats & Icons"
+    }
+  ]
+}
